@@ -1,4 +1,4 @@
-# Hi, I'm Edan Ziv 
+# Hi, I'm Edan Ziv 👋
 
 - Computer Science & Entrepreneurship student at Reichman University.  
 - Motivated to learn, build projects, and gain practical development experience.
